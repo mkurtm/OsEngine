@@ -18,6 +18,12 @@ namespace OsEngine.OsTrader.Panels
     /// <summary>
     /// типы вкладок для панели
     /// </summary>
+    ///  /// <summary>
+    /// типы вкладок для панели
+    /// </summary>
+    ///  /// <summary>
+    /// типы вкладок для панели
+    /// </summary>
     public enum BotTabType
     {
         /// <summary>
